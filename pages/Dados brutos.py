@@ -13,7 +13,7 @@ def mensagem_sucesso():
     sucesso.empty()
 
 
-st.title('DADOS DAS VENDAS 📊"#808080"')
+st.title(':gray [DADOS DAS VENDAS] 📊')
 
 
 url = 'https://labdados.com/produtos'
