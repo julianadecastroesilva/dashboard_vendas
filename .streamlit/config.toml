@@ -1,6 +1,6 @@
 [theme]
 primaryColor="#556DE8"
-backgroundColor="#CCFFFF"
+backgroundColor="#B0E0E6" ##cor do fundo da página
 secondaryBackgroundColor="#D6D6D6"
-textColor="#333333"
+textColor="#000080"
 font="sans serif"
