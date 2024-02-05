@@ -1,6 +1,6 @@
 [theme]
-primaryColor="#000000"
+primaryColor="#808080" ##cor quando passa o mouse
 backgroundColor="#FFFFFF" ##cor do fundo da página
-secondaryBackgroundColor="#FF0000"
-textColor="#4169E1"
-font="sans serif"
+secondaryBackgroundColor="#D3D3D3" ##cor lateral
+textColor="#FF0000" ##cor do texto
+font="sans serif" ##tipo da fonte
