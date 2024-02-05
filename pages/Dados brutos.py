@@ -13,7 +13,7 @@ def mensagem_sucesso():
     sucesso.empty()
 
 
-st.title(':gray [DADOS DAS VENDAS] 📊')
+st.title('_Streamlit_ is:gray [DADOS DAS VENDAS] 📊')
 
 
 url = 'https://labdados.com/produtos'
